@@ -11,7 +11,7 @@ const Intro = () => {
           <h1 className="lg:text-2xl md:text-2xl sm:text-lg text-center text-[#E5B8F4] m-7 font-light font-style:italic">
             Just a guy with big dreams and bigger aspirations
           </h1>
-          <div className="h-[50px] bg-[#810CA8] w-44  text-center flex justify-center items-center rounded-xl">
+          <div className="h-[50px] bg-[#810CA8] w-44  text-center flex justify-center items-center rounded-xl hover:scale-110 transition-all ease-in ease-out">
             <a href="mailto:aaronjp9@gmail.com">
               <h1 className="text-white font-medium">Contact Me</h1>
             </a>
