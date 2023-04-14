@@ -23,7 +23,7 @@ const Intro = () => {
             <h1 className="font-bold text-[#C147E9] text-5xl text-center pt-10 josefin">
               About me
             </h1>
-            <h1 className="lg:text-xl text-md text-[#E5B8F4] lg:p-2 px-4 lg:text-left text-justify josefin">
+            <h1 className="lg:text-xl text-sm pt-6 text-[#E5B8F4] lg:p-2 px-4 lg:text-left text-justify josefin">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
               quaerat iste molestiae recusandae velit beatae tenetur tempora
               dicta ad corrupti totam eligendi, cum consequuntur, ratione
