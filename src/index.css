@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500&family=Josefin+Sans&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+.App,
+#root {
+  height: 100%;
+  width: 100%;
+}
+.josefin {
+  font-family: "Josefin Sans", sans-serif;
+}
+.baloo {
+  font-family: "Baloo Bhai 2", sans-serif;
+  font-weight: 600;
+}
+.baloo-lg {
+  font-family: "Baloo Bhai 2", sans-serif;
+  font-weight: 400;
+}
